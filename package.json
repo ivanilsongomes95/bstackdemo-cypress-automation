@@ -1,0 +1,7 @@
+{
+  "name": "cypress-express-estuda",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
