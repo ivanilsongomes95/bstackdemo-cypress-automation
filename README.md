@@ -13,3 +13,15 @@ A automação cobre desde o login até a finalização da compra, validando a me
 - **Node.js**
 - **JavaScript**
 
+
+# Cenário automatizado
+Cenário: Finalização de compra com sucesso
+    Quando acesso o site https://bstackdemo.com/
+    E adicionar um (ou mais) itens no carrinho
+    Então deverá exibir uma mensagem de sucesso
+
+# Projéto - Cypress-Express-Estuda
+ 🧑‍💻 Arquivo principal da automação\
+  cypress/e2e/tasks.cy.js
+A automação rodou pelo Electron (browser padrão do cypress) 
+  
